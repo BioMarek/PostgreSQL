@@ -1,0 +1,16 @@
+sever setup:
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+
+shows commands available for postgres:
+service postgresql
+
+logs in postgre as "posgre" user
+sudo su postgres
+
+switches to postgre sql shell
+psql
+
+datagrip
+host: localhost
+user: testuser
+pass: same as pc
