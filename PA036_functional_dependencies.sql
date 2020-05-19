@@ -1,4 +1,4 @@
--- FUNCTIONAL DEPENDENCIES
+-- FUNCTIONAL DEPENDENCIES PA036 Database System Project
 
 -- shows basic statistics of table
 SELECT * FROM pg_stats WHERE tablename = 'postal_codes';
